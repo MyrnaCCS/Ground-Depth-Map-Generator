@@ -4,7 +4,7 @@ import os
 from glob import glob
 from GroundMapGenerator import GroundMapGenerator
 
-dataset_path = '/home/myrna/Desktop/data_v1.0/data'
+dataset_path = '/home/myrna/Desktop/Indoors_Dataset/data'
 
 sequences_dir = ['40_D', '41_D', '42_D', '43_D', '44_D', '45_D', '46_D', '47_D', '48_D', '49_D', '50_D', '51_D', '52_D', '53_D', '54_D', '55_D', '56_D', '57_D']
 
